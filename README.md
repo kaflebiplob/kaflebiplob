@@ -2,16 +2,6 @@
 
 ### Student | Developer
 
----
-
-## 🚀 About Me
-
-I'm a passionate student developer focused on building scalable web applications. I love exploring new technologies and turning ideas into reality through code.
-
-🔗 **Portfolio:** [portfolio-psi-dusky-52.vercel.app](https://portfolio-psi-dusky-52.vercel.app/)  
-💼 **LinkedIn:** [in/biplob-kafle-56b16925a](https://linkedin.com/in/biplob-kafle-56b16925a)
-
----
 
 ## 💻 Tech Stack
 
@@ -41,7 +31,11 @@ I'm a passionate student developer focused on building scalable web applications
 ✨ 460 Contributions in the last year
 ➕ 83 Commits in December 2025
 🔥 Currently building with Django & React
+```
 
+---
+
+---
 
 ## 📈 Contribution Graph
 
