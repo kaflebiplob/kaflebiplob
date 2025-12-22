@@ -1,6 +1,6 @@
-# Hi there, I'm Biplob Kafle 👋
+# I'm Biplob Kafle 
 
-### Student | Full Stack Developer
+### Student | Developer
 
 ---
 
@@ -41,33 +41,7 @@ I'm a passionate student developer focused on building scalable web applications
 ✨ 460 Contributions in the last year
 ➕ 83 Commits in December 2025
 🔥 Currently building with Django & React
-```
 
----
-
-## 🎯 Featured Projects
-
-### 🛒 [ecommerce_py](https://github.com/kaflebiplob/ecommerce_py)
-A fully featured, scalable e-commerce web application built using Django REST Framework for the backend and React (Vite) for the frontend. The platform includes robust JWT-based authentication.
-
-**Tech:** `Django` `React` `JWT` `REST API`
-
-### 💼 [Portfolio](https://github.com/kaflebiplob/Portfolio)
-My personal portfolio website showcasing my projects and skills.
-
-**Tech:** `JavaScript` `React`
-
-### 🎫 [Bus Ticketing System](https://github.com/kaflebiplob/busticketingsystem)
-A simple bus ticketing system made using Laravel.
-
-**Tech:** `Laravel` `Blade` `PHP`
-
-### 🌤️ [WeatherApp](https://github.com/kaflebiplob/WeatherApp)
-Weather application using React.js
-
-**Tech:** `React` `JavaScript` `API Integration`
-
----
 
 ## 📈 Contribution Graph
 
