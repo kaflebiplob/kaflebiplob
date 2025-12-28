@@ -2,7 +2,6 @@
 
 ### Student | Developer
 
----
 
 ## 💻 Tech Stack
 
@@ -21,9 +20,3 @@
 
 ---
 
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaflebiplob&theme=react-dark&hide_border=true&area=true)
-
----
